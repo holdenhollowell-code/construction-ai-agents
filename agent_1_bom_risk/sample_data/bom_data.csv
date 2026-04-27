@@ -1,0 +1,19 @@
+item_id,item_name,category,supplier_contractor_name,scheduled_date,lead_time_days,status,notes
+M001,Concrete (Foundation),material,BuildRight Suppliers,2026-04-30,3,confirmed,Ready to pour — crew mobilizing
+M002,Framing Lumber,material,Pacific Lumber Co.,2026-05-05,7,delayed,Supplier citing regional inventory shortage; no revised ETA given
+M003,Structural Steel Beams,material,SteelCo Industries,2026-05-10,14,on track,Order placed 4/13; confirmed shipping on schedule
+M004,Windows (Custom),material,ViewPro Windows,2026-05-20,30,not started,Custom order not yet placed; 30-day lead time means deadline already at risk
+M005,HVAC System (Full Package),material,ClimateControl Supply,2026-05-15,21,delayed,Backordered at manufacturer; supplier cannot confirm new delivery date
+M006,Electrical Panel (200A),material,ElecSupply Co.,2026-05-08,10,on track,Order in — standard stock item; delivery expected on schedule
+M007,Roofing Shingles,material,RoofMart,2026-05-25,5,not started,Order pending owner color selection approval
+M008,Spray Foam Insulation (R-38),material,InsulPro,2026-05-28,7,on track,Supplier confirmed stock available
+M009,Drywall Sheets (5/8 in),material,Gypsum Direct,2026-06-01,5,on track,Standard stock; no issues anticipated
+M010,Kitchen Cabinets (Custom),material,CabinetCraft Studio,2026-06-15,45,not started,Custom order not yet placed — 45-day lead time puts delivery at risk
+M011,Exterior Siding (Fiber Cement),material,SidingPlus,2026-05-22,10,delayed,Initial shipment had color mismatch; replacement order not yet confirmed
+M012,Interior Doors (Pre-hung),material,DoorWorks Supply,2026-06-10,14,on track,Order placed; standard lead time
+C001,Concrete Contractor,contractor,FoundationFirst LLC,2026-04-30,0,confirmed,License and insurance verified; crew mobilizing on schedule
+C002,Framing Contractor,contractor,FrameRight Inc.,2026-05-06,0,on track,Crew available — start date contingent on lumber delivery
+C003,Electrical Contractor,contractor,Volt Masters Electric,2026-05-12,0,confirmed,Permits pulled; ready to begin rough-in
+C004,Plumbing Contractor,contractor,FlowTech Plumbing,2026-05-09,0,delayed,Lead plumber out on medical leave; crew understaffed
+C005,HVAC Contractor,contractor,AirWorks HVAC,2026-05-16,0,not started,Has not confirmed availability; awaiting equipment delivery confirmation
+C006,Roofing Contractor,contractor,TopShield Roofing,2026-05-27,0,on track,Scheduled once shingles are confirmed and delivered
